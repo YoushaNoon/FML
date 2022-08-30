@@ -1,5 +1,5 @@
 # FML
-![FML logo](/image/sample.png "FML logo")
+![FML logo](./Logo.png "FML logo")
 ### A simple but powerful HTML preprocessor
 
 # Getting Started
